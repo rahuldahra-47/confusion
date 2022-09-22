@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/confusion/static/css/main.abd64e84.css",
+    "main.js": "/confusion/static/js/main.ebb6960c.js",
+    "static/js/787.2e4ac314.chunk.js": "/confusion/static/js/787.2e4ac314.chunk.js",
+    "index.html": "/confusion/index.html",
+    "main.abd64e84.css.map": "/confusion/static/css/main.abd64e84.css.map",
+    "main.ebb6960c.js.map": "/confusion/static/js/main.ebb6960c.js.map",
+    "787.2e4ac314.chunk.js.map": "/confusion/static/js/787.2e4ac314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ebb6960c.js"
+  ]
+}
